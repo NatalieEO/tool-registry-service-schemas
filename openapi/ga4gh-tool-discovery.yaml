@@ -709,6 +709,10 @@ definitions:
       - Docker
       - Singularity
       - Conda
+    x-enum-varnames:
+      - Docker
+      - Singularity
+      - Conda
   DescriptorType:
     type: string
     description: >-
